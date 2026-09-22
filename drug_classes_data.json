@@ -1,0 +1,702 @@
+{
+  "drug_classes": {
+    "sections": [
+      {
+        "title": "Cephalosporins",
+        "cat": "Antibacterials",
+        "icon": "🧫",
+        "hue": 215,
+        "c": [
+          {
+            "t": "I. First Generation",
+            "l": 2,
+            "c": [
+              {
+                "n": "Cephalothin",
+                "k": "cephalothin",
+                "b": [
+                  "Keflin"
+                ],
+                "dose": "Inj 500 mg, 1 g, 2 g",
+                "ind": "Early first-generation cephalosporin for susceptible gram-positive skin/soft tissue and surgical infections; largely historical, superseded by cefazolin.",
+                "ci": "Penicillin/cephalosporin hypersensitivity",
+                "sci": "Beta-lactam allergy",
+                "ae": "Injection site pain, phlebitis, GI upset, rash",
+                "sae": "Hypersensitivity reaction"
+              },
+              {
+                "n": "Cephaloridine",
+                "k": "cephaloridine",
+                "d": "withdrawn",
+                "s": "~",
+                "ind": "Historical first-generation cephalosporin, withdrawn from clinical use due to dose-dependent nephrotoxicity.",
+                "ae": "Nephrotoxicity (dose-dependent), pain on injection",
+                "sae": "Nephrotoxicity"
+              },
+              {
+                "n": "Cefazolin",
+                "k": "cefazolin",
+                "b": [
+                  "Ancef",
+                  "Kefzol"
+                ],
+                "s": "~",
+                "dose": "Inj 500 mg, 1 g, 2 g",
+                "ind": "Skin/soft tissue infections, surgical prophylaxis, and susceptible streptococcal/staphylococcal infections.",
+                "doc": "Surgical antibiotic prophylaxis",
+                "ci": "Penicillin/cephalosporin hypersensitivity",
+                "sci": "Beta-lactam allergy",
+                "ae": "Injection site pain/phlebitis, GI upset, rash, eosinophilia",
+                "sae": "Hypersensitivity reaction (rash)"
+              },
+              {
+                "n": "Cephapirin",
+                "k": "cephapirin",
+                "b": [
+                  "Cefadyl"
+                ],
+                "dose": "Inj 500 mg, 1 g, 2 g, 4 g",
+                "ind": "First-generation cephalosporin for susceptible gram-positive skin/soft tissue and surgical infections; largely superseded by cefazolin.",
+                "ci": "Penicillin/cephalosporin hypersensitivity",
+                "sci": "Beta-lactam allergy",
+                "ae": "Injection site pain, GI upset, rash",
+                "sae": "Hypersensitivity reaction"
+              },
+              {
+                "n": "Cephradine",
+                "k": "cephradine",
+                "b": [
+                  "Velosef"
+                ],
+                "dose": "Cap 250, 500 mg · Susp 125, 250 mg/5 mL · Inj 250, 500 mg, 1 g",
+                "ind": "Susceptible skin/soft tissue, respiratory, and urinary tract infections; available in both oral and injectable forms.",
+                "ci": "Penicillin/cephalosporin hypersensitivity",
+                "sci": "Beta-lactam allergy",
+                "ae": "GI upset (diarrhea, nausea), rash",
+                "sae": "Hypersensitivity reaction"
+              },
+              {
+                "n": "Cephalexin",
+                "k": "cephalexin",
+                "b": [
+                  "Keflex",
+                  "Ceporex"
+                ],
+                "dose": "Cap 250, 500, 750 mg · Tab 250, 500 mg · Susp 125, 250 mg/5 mL",
+                "ind": "Oral first-generation cephalosporin for skin/soft tissue infections, UTIs, otitis media, and streptococcal pharyngitis.",
+                "doc": "Uncomplicated non-purulent cellulitis (outpatient, non-MRSA)",
+                "ci": "Penicillin/cephalosporin hypersensitivity",
+                "sci": "Beta-lactam allergy",
+                "ae": "Diarrhea, nausea, rash, headache",
+                "sae": "Diarrhea / hypersensitivity rash"
+              },
+              {
+                "n": "Cefadroxil",
+                "k": "cefadroxil",
+                "b": [
+                  "Duricef",
+                  "Baxan"
+                ],
+                "s": "~",
+                "dose": "Cap 500 mg · Tab 1 g · Susp 125, 250, 500 mg/5 mL",
+                "ind": "Skin/soft tissue infections, streptococcal pharyngitis, and uncomplicated UTIs; longer half-life allows once- or twice-daily dosing.",
+                "ci": "Penicillin/cephalosporin hypersensitivity",
+                "sci": "Beta-lactam allergy",
+                "ae": "GI upset, rash, headache",
+                "sae": "Hypersensitivity reaction"
+              }
+            ]
+          },
+          {
+            "t": "II. Second Generation",
+            "l": 2,
+            "c": [
+              {
+                "n": "Ceforanide",
+                "k": "ceforanide"
+              },
+              {
+                "n": "Cefuroxime",
+                "k": "cefuroxime",
+                "b": [
+                  "Zinacef",
+                  "Ceftin",
+                  "Zinnat"
+                ]
+              },
+              {
+                "n": "Cefoxitin",
+                "k": "cefoxitin",
+                "b": [
+                  "Mefoxin"
+                ]
+              },
+              {
+                "n": "Cefamandole",
+                "k": "cefamandole",
+                "b": [
+                  "Mandol"
+                ],
+                "s": "~"
+              },
+              {
+                "n": "Cefmetazole",
+                "k": "cefmetazole",
+                "b": [
+                  "Zefazone"
+                ],
+                "s": "~"
+              },
+              {
+                "n": "Cefonicid",
+                "k": "cefonicid",
+                "b": [
+                  "Monocid"
+                ]
+              },
+              {
+                "n": "Cefaclor",
+                "k": "cefaclor",
+                "b": [
+                  "Ceclor",
+                  "Distaclor"
+                ]
+              },
+              {
+                "n": "Cefotetan",
+                "k": "cefotetan",
+                "b": [
+                  "Cefotan"
+                ],
+                "s": "+"
+              },
+              {
+                "n": "Cefprozil",
+                "k": "cefprozil",
+                "b": [
+                  "Cefzil"
+                ],
+                "s": "+"
+              }
+            ]
+          },
+          {
+            "t": "III. Third Generation",
+            "l": 2,
+            "c": [
+              {
+                "n": "Cefotaxime",
+                "k": "cefotaxime",
+                "b": [
+                  "Claforan",
+                  "Taxim"
+                ],
+                "s": "~"
+              },
+              {
+                "n": "Ceftriaxone",
+                "k": "ceftriaxone",
+                "b": [
+                  "Rocephin",
+                  "Oframax"
+                ],
+                "s": "~"
+              },
+              {
+                "n": "Ceftazidime",
+                "k": "ceftazidime",
+                "b": [
+                  "Fortum",
+                  "Tazicef",
+                  "Ceptaz"
+                ],
+                "s": "~"
+              },
+              {
+                "n": "Cefoperazone",
+                "k": "cefoperazone",
+                "b": [
+                  "Cefobid",
+                  "Sulperazon"
+                ]
+              },
+              {
+                "n": "Cefsulodin",
+                "k": "cefsulodin",
+                "s": "~"
+              },
+              {
+                "n": "Cefpodoxime",
+                "k": "cefpodoxime",
+                "b": [
+                  "Vantin",
+                  "Orelox"
+                ]
+              },
+              {
+                "n": "Cefixime",
+                "k": "cefixime",
+                "b": [
+                  "Suprax",
+                  "Cefspan"
+                ]
+              },
+              {
+                "n": "Cefdinir",
+                "k": "cefdinir",
+                "b": [
+                  "Omnicef"
+                ]
+              },
+              {
+                "n": "Ceftizoxime",
+                "k": "ceftizoxime",
+                "b": [
+                  "Cefizox"
+                ],
+                "s": "+"
+              },
+              {
+                "n": "Ceftibuten",
+                "k": "ceftibuten",
+                "b": [
+                  "Cedax"
+                ],
+                "s": "+"
+              },
+              {
+                "n": "Cefditoren",
+                "k": "cefditoren",
+                "b": [
+                  "Spectracef"
+                ],
+                "s": "+"
+              }
+            ]
+          },
+          {
+            "t": "IV. Fourth Generation",
+            "l": 2,
+            "c": [
+              {
+                "n": "Cefepime",
+                "k": "cefepime",
+                "b": [
+                  "Maxipime"
+                ],
+                "s": "~"
+              },
+              {
+                "n": "Cefpirome",
+                "k": "cefpirome",
+                "b": [
+                  "Cefrom"
+                ],
+                "s": "~"
+              }
+            ]
+          },
+          {
+            "t": "V. Advanced Generation",
+            "l": 2,
+            "c": [
+              {
+                "n": "Ceftaroline",
+                "k": "ceftaroline",
+                "b": [
+                  "Teflaro",
+                  "Zinforo"
+                ]
+              },
+              {
+                "n": "Ceftobiprole",
+                "k": "ceftobiprole",
+                "b": [
+                  "Zevtera"
+                ],
+                "s": "+"
+              },
+              {
+                "n": "Ceftolozane",
+                "k": "ceftolozane",
+                "d": "with tazobactam",
+                "b": [
+                  "Zerbaxa"
+                ],
+                "s": "+"
+              },
+              {
+                "n": "Ceftazidime-avibactam",
+                "k": "ceftazidime-avibactam",
+                "b": [
+                  "Avycaz",
+                  "Zavicefta"
+                ],
+                "s": "+"
+              },
+              {
+                "n": "Cefiderocol",
+                "k": "cefiderocol",
+                "b": [
+                  "Fetroja"
+                ],
+                "s": "+"
+              }
+            ]
+          }
+        ],
+        "count": 34,
+        "groups": 5
+      },
+      {
+        "title": "Penicillins",
+        "cat": "Antibacterials",
+        "icon": "💊",
+        "hue": 200,
+        "c": [
+          {
+            "t": "I. Penicillinase-Sensitive (Natural / Narrow Spectrum)",
+            "l": 2,
+            "c": [
+              {
+                "n": "Benzyl Penicillin",
+                "k": "benzyl penicillin",
+                "d": "Penicillin G",
+                "b": [
+                  "Pfizerpen",
+                  "Crystapen"
+                ],
+                "s": "~"
+              },
+              {
+                "n": "Procaine Penicillin",
+                "k": "procaine penicillin",
+                "g": "generic"
+              },
+              {
+                "n": "Benzathine Penicillin",
+                "k": "benzathine penicillin",
+                "b": [
+                  "Bicillin L-A",
+                  "Extencilline"
+                ],
+                "s": "~"
+              },
+              {
+                "n": "Phenoxymethyl Penicillin",
+                "k": "phenoxymethyl penicillin",
+                "d": "Penicillin V",
+                "b": [
+                  "Pen-Vee K",
+                  "Veetids"
+                ],
+                "s": "~"
+              }
+            ]
+          },
+          {
+            "t": "II. Penicillinase-Resistant (Anti-Staphylococcal)",
+            "l": 2,
+            "c": [
+              {
+                "n": "Cloxacillin",
+                "k": "cloxacillin",
+                "b": [
+                  "Orbenin",
+                  "Tegopen"
+                ],
+                "s": "~"
+              },
+              {
+                "n": "Dicloxacillin",
+                "k": "dicloxacillin",
+                "b": [
+                  "Dynapen",
+                  "Diclocil"
+                ],
+                "s": "~"
+              },
+              {
+                "n": "Oxacillin",
+                "k": "oxacillin",
+                "b": [
+                  "Bactocill"
+                ],
+                "s": "~"
+              },
+              {
+                "n": "Flucloxacillin",
+                "k": "flucloxacillin",
+                "b": [
+                  "Floxapen",
+                  "Staphylex"
+                ],
+                "s": "+"
+              },
+              {
+                "n": "Nafcillin",
+                "k": "nafcillin",
+                "b": [
+                  "Nallpen",
+                  "Unipen"
+                ],
+                "s": "+"
+              },
+              {
+                "n": "Methicillin",
+                "k": "methicillin",
+                "d": "obsolete",
+                "s": "+"
+              }
+            ]
+          },
+          {
+            "t": "III. Broad Spectrum (Aminopenicillins)",
+            "l": 2,
+            "c": [
+              {
+                "n": "Ampicillin",
+                "k": "ampicillin",
+                "b": [
+                  "Omnipen",
+                  "Principen",
+                  "Penbritin"
+                ]
+              },
+              {
+                "n": "Amoxicillin",
+                "k": "amoxicillin",
+                "b": [
+                  "Amoxil",
+                  "Trimox"
+                ]
+              },
+              {
+                "t": "Ampicillin prodrugs",
+                "l": 3,
+                "c": [
+                  {
+                    "n": "Talampicillin",
+                    "k": "talampicillin",
+                    "s": "~"
+                  },
+                  {
+                    "n": "Pivampicillin",
+                    "k": "pivampicillin",
+                    "s": "~"
+                  },
+                  {
+                    "n": "Bacampicillin",
+                    "k": "bacampicillin",
+                    "b": [
+                      "Spectrobid"
+                    ],
+                    "s": "~"
+                  }
+                ]
+              },
+              {
+                "t": "With beta-lactamase inhibitors",
+                "l": 3,
+                "c": [
+                  {
+                    "n": "Amoxicillin + Clavulanic acid",
+                    "k": "amoxicillin + clavulanic acid",
+                    "d": "Co-amoxiclav",
+                    "b": [
+                      "Augmentin",
+                      "Amoclan"
+                    ],
+                    "s": "~"
+                  },
+                  {
+                    "n": "Amoxicillin + Sulbactam",
+                    "k": "amoxicillin + sulbactam"
+                  },
+                  {
+                    "n": "Ampicillin + Sulbactam",
+                    "k": "ampicillin + sulbactam",
+                    "b": [
+                      "Unasyn"
+                    ],
+                    "s": "+"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "t": "IV. Anti-Pseudomonal Penicillins",
+            "l": 2,
+            "c": [
+              {
+                "t": "Carboxypenicillins",
+                "l": 3,
+                "c": [
+                  {
+                    "n": "Carbenicillin",
+                    "k": "carbenicillin",
+                    "b": [
+                      "Geocillin"
+                    ],
+                    "s": "+"
+                  },
+                  {
+                    "n": "Ticarcillin",
+                    "k": "ticarcillin",
+                    "b": [
+                      "Ticar"
+                    ]
+                  }
+                ]
+              },
+              {
+                "t": "Ureidopenicillins",
+                "l": 3,
+                "c": [
+                  {
+                    "n": "Piperacillin",
+                    "k": "piperacillin",
+                    "b": [
+                      "Pipracil"
+                    ]
+                  },
+                  {
+                    "n": "Azlocillin",
+                    "k": "azlocillin",
+                    "s": "+"
+                  },
+                  {
+                    "n": "Mezlocillin",
+                    "k": "mezlocillin",
+                    "b": [
+                      "Mezlin"
+                    ],
+                    "s": "+"
+                  }
+                ]
+              },
+              {
+                "t": "With beta-lactamase inhibitors",
+                "l": 3,
+                "c": [
+                  {
+                    "n": "Piperacillin + Tazobactam",
+                    "k": "piperacillin + tazobactam",
+                    "b": [
+                      "Zosyn",
+                      "Tazocin"
+                    ],
+                    "s": "+"
+                  },
+                  {
+                    "n": "Ticarcillin + Clavulanic acid",
+                    "k": "ticarcillin + clavulanic acid",
+                    "b": [
+                      "Timentin"
+                    ],
+                    "s": "+"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "count": 25,
+        "groups": 4
+      },
+      {
+        "title": "Sulfonamides",
+        "cat": "Antibacterials",
+        "icon": "🧪",
+        "hue": 190,
+        "c": [
+          {
+            "t": "I. Short-Acting",
+            "l": 2,
+            "c": [
+              {
+                "n": "Sulfadiazine",
+                "k": "sulfadiazine",
+                "s": "+",
+                "g": "generic"
+              },
+              {
+                "n": "Sulfisoxazole",
+                "k": "sulfisoxazole",
+                "d": "Sulfafurazole",
+                "b": [
+                  "Gantrisin"
+                ],
+                "s": "+"
+              }
+            ]
+          },
+          {
+            "t": "II. Intermediate-Acting",
+            "l": 2,
+            "c": [
+              {
+                "n": "Sulfamethoxazole",
+                "k": "sulfamethoxazole",
+                "s": "+"
+              }
+            ]
+          },
+          {
+            "t": "III. Long-Acting",
+            "l": 2,
+            "c": [
+              {
+                "n": "Sulfadoxine",
+                "k": "sulfadoxine",
+                "b": [
+                  "Fansidar"
+                ],
+                "s": "+"
+              },
+              {
+                "n": "Sulfamethoxypyridazine",
+                "k": "sulfamethoxypyridazine",
+                "s": "+"
+              }
+            ]
+          },
+          {
+            "t": "IV. Topical",
+            "l": 2,
+            "c": [
+              {
+                "n": "Silver sulfadiazine",
+                "k": "silver sulfadiazine",
+                "b": [
+                  "Silvadene",
+                  "Flamazine"
+                ],
+                "s": "+"
+              },
+              {
+                "n": "Mafenide",
+                "k": "mafenide",
+                "b": [
+                  "Sulfamylon"
+                ],
+                "s": "+"
+              },
+              {
+                "n": "Sulfacetamide",
+                "k": "sulfacetamide",
+                "b": [
+                  "Bleph-10",
+                  "Sulamyd"
+                ],
+                "s": "+"
+              }
+            ]
+          },
+          {
+            "t": "V. Poorly Absorbed (Gut-Acting)",
+            "l": 2,
+            "c": [
+              {
+                "n": "Sul

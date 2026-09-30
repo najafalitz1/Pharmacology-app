@@ -37,124 +37,6 @@
             "y": 1945
           },
           {
-            "n": "Triple Sulfonamides",
-            "k": "triple sulfonamides",
-            "d": "Sulfadiazine + Sulfamerazine + Sulfamethazine (Trisulfapyrimidines)",
-            "b": [
-              "Neotrizine",
-              "Triple Sulfa"
-            ],
-            "dose": "Oral 2-4 g loading, then 2-4 g/day divided (equal parts of each sulfonamide)",
-            "ind": [
-              "Historical treatment of urinary tract infections and other susceptible bacterial infections; largely superseded by co-trimoxazole."
-            ],
-            "doc": "Historical alternative when reduced crystalluria risk was needed with older sulfonamides",
-            "ci": "Sulfonamide hypersensitivity, porphyria, pregnancy at term, infants under 2 months",
-            "sci": "G6PD deficiency, renal impairment",
-            "ae": [
-              "Crystalluria (reduced vs single-agent), rash, nausea, photosensitivity"
-            ],
-            "sae": "Stevens-Johnson syndrome/toxic epidermal necrolysis, hemolytic anemia (G6PD deficiency)",
-            "info": "Combines three sulfonamides with independent, additive antibacterial (dihydropteroate synthase inhibition) but non-additive urinary solubility, so each remains below its individual saturation point in urine, substantially lowering crystalluria risk compared with an equivalent total dose of any single sulfonamide.",
-            "s": "~",
-            "caution": "Fixed combination of three sulfonamides — confirm the labeled composition and total sulfonamide content before dosing; ensure adequate hydration.",
-            "sb": [],
-            "combo": true,
-            "preg": "Avoid near term (last few weeks of pregnancy) — sulfonamides displace bilirubin from albumin, risking kernicterus in the neonate; also generally avoided in the first trimester given a possible small increase in birth-defect risk with folate-antagonist exposure. Avoid during breastfeeding of newborns, premature infants, or G6PD-deficient infants (kernicterus/hemolysis risk); can be used with more caution in older, healthy infants.",
-            "renal": "Renally eliminated with a risk of crystalluria — ensure adequate hydration and reduce the dose in renal impairment; use with caution in hepatic impairment (rare hepatotoxicity).",
-            "st": "Tab 167 mg each sulfonamide (500 mg total) · Susp 167 mg each/5 mL",
-            "y": 1945
-          },
-          {
-            "n": "Triple Sulfonamides",
-            "k": "triple sulfonamides",
-            "d": "Sulfadiazine + Sulfamerazine + Sulfamethazine (Trisulfapyrimidines)",
-            "b": [
-              "Neotrizine",
-              "Triple Sulfa"
-            ],
-            "dose": "Oral 2-4 g loading, then 2-4 g/day divided (equal parts of each sulfonamide)",
-            "ind": [
-              "Historical treatment of urinary tract infections and other susceptible bacterial infections; largely superseded by co-trimoxazole."
-            ],
-            "doc": "Historical alternative when reduced crystalluria risk was needed with older sulfonamides",
-            "ci": "Sulfonamide hypersensitivity, porphyria, pregnancy at term, infants under 2 months",
-            "sci": "G6PD deficiency, renal impairment",
-            "ae": [
-              "Crystalluria (reduced vs single-agent), rash, nausea, photosensitivity"
-            ],
-            "sae": "Stevens-Johnson syndrome/toxic epidermal necrolysis, hemolytic anemia (G6PD deficiency)",
-            "info": "Combines three sulfonamides with independent, additive antibacterial (dihydropteroate synthase inhibition) but non-additive urinary solubility, so each remains below its individual saturation point in urine, substantially lowering crystalluria risk compared with an equivalent total dose of any single sulfonamide.",
-            "s": "~",
-            "caution": "Fixed combination of three sulfonamides — confirm the labeled composition and total sulfonamide content before dosing; ensure adequate hydration.",
-            "sb": [],
-            "combo": true,
-            "preg": "Avoid near term (last few weeks of pregnancy) — sulfonamides displace bilirubin from albumin, risking kernicterus in the neonate; also generally avoided in the first trimester given a possible small increase in birth-defect risk with folate-antagonist exposure. Avoid during breastfeeding of newborns, premature infants, or G6PD-deficient infants (kernicterus/hemolysis risk); can be used with more caution in older, healthy infants.",
-            "renal": "Renally eliminated with a risk of crystalluria — ensure adequate hydration and reduce the dose in renal impairment; use with caution in hepatic impairment (rare hepatotoxicity).",
-            "st": "Tab 167 mg each sulfonamide (500 mg total) · Susp 167 mg each/5 mL",
-            "y": 1945
-          },
-          {
-            "n": "Co-trimoxazole",
-            "k": "co-trimoxazole",
-            "d": "Trimethoprim + Sulfamethoxazole",
-            "b": [
-              "Bactrim",
-              "Septrin",
-              "Septran"
-            ],
-            "y": 1968,
-            "st": "Tab 80/400, 160/800 mg · Susp 40/200 mg/5 mL · Inj 80/16 mg/mL",
-            "combo": true,
-            "dose": "Tab 400/80 mg, 800/160 mg · Susp 200/40 mg/5 mL · Inj 400/80 mg/5 mL",
-            "ind": [
-              "Pneumocystis jirovecii pneumonia, uncomplicated UTIs, community-acquired MRSA skin infections, nocardiosis, and Stenotrophomonas maltophilia infections."
-            ],
-            "doc": "Pneumocystis jirovecii pneumonia (treatment and prophylaxis); Nocardiosis; Stenotrophomonas maltophilia bacteremia",
-            "ci": "Severe sulfonamide allergy, documented megaloblastic anemia due to folate deficiency, CrCl <15 mL/min, pregnancy at term, infants <2 months",
-            "sci": "Megaloblastic bone marrow suppression / Severe hyperkalemia",
-            "ae": [
-              "Gastrointestinal upset, hyperkalemia, serum creatinine elevation, morbilliform rash, photosensitivity"
-            ],
-            "sae": "Hyperkalemia (amiloride-like ENaC blockade by trimethoprim) / Stevens-Johnson syndrome",
-            "info": "Synergistic bactericidal combination in a fixed 5:1 ratio that sequentially blocks microbial folate synthesis (SMX inhibits dihydropteroate synthase, TMP inhibits dihydrofolate reductase).",
-            "s": "+",
-            "caution": "Confirm the trimethoprim:sulfamethoxazole ratio on the product (e.g., 80/400 vs 160/800) before converting a dose to tablets/volume. Encourage good fluid intake; shake the suspension before dosing.",
-            "sb": [],
-            "preg": "Avoid in the first trimester — the trimethoprim component is a folate antagonist linked to a small increase in neural tube defect risk; also avoid near term (sulfamethoxazole displaces bilirubin, risking neonatal kernicterus). Avoid during breastfeeding of premature, jaundiced, or G6PD-deficient infants.",
-            "renal": "Renally eliminated with a risk of crystalluria — ensure adequate hydration and reduce the dose in renal impairment; use with caution in hepatic impairment (rare hepatotoxicity)."
-          },
-          {
-            "n": "Co-trimoxazole",
-            "k": "co-trimoxazole",
-            "d": "Trimethoprim + Sulfamethoxazole",
-            "b": [
-              "Bactrim",
-              "Septrin",
-              "Septran"
-            ],
-            "y": 1968,
-            "st": "Tab 80/400, 160/800 mg · Susp 40/200 mg/5 mL · Inj 80/16 mg/mL",
-            "combo": true,
-            "dose": "Tab 400/80 mg, 800/160 mg · Susp 200/40 mg/5 mL · Inj 400/80 mg/5 mL",
-            "ind": [
-              "Pneumocystis jirovecii pneumonia, uncomplicated UTIs, community-acquired MRSA skin infections, nocardiosis, and Stenotrophomonas maltophilia infections."
-            ],
-            "doc": "Pneumocystis jirovecii pneumonia (treatment and prophylaxis); Nocardiosis; Stenotrophomonas maltophilia bacteremia",
-            "ci": "Severe sulfonamide allergy, documented megaloblastic anemia due to folate deficiency, CrCl <15 mL/min, pregnancy at term, infants <2 months",
-            "sci": "Megaloblastic bone marrow suppression / Severe hyperkalemia",
-            "ae": [
-              "Gastrointestinal upset, hyperkalemia, serum creatinine elevation, morbilliform rash, photosensitivity"
-            ],
-            "sae": "Hyperkalemia (amiloride-like ENaC blockade by trimethoprim) / Stevens-Johnson syndrome",
-            "info": "Synergistic bactericidal combination in a fixed 5:1 ratio that sequentially blocks microbial folate synthesis (SMX inhibits dihydropteroate synthase, TMP inhibits dihydrofolate reductase).",
-            "s": "+",
-            "caution": "Confirm the trimethoprim:sulfamethoxazole ratio on the product (e.g., 80/400 vs 160/800) before converting a dose to tablets/volume. Encourage good fluid intake; shake the suspension before dosing.",
-            "sb": [],
-            "preg": "Avoid in the first trimester — the trimethoprim component is a folate antagonist linked to a small increase in neural tube defect risk; also avoid near term (sulfamethoxazole displaces bilirubin, risking neonatal kernicterus). Avoid during breastfeeding of premature, jaundiced, or G6PD-deficient infants.",
-            "renal": "Renally eliminated with a risk of crystalluria — ensure adequate hydration and reduce the dose in renal impairment; use with caution in hepatic impairment (rare hepatotoxicity)."
-          },
-          {
             "n": "Co-trimoxazole",
             "k": "co-trimoxazole",
             "d": "Trimethoprim + Sulfamethoxazole",
@@ -215,124 +97,6 @@
             "sb": [],
             "preg": "Considered compatible with pregnancy and generally with breastfeeding, but the clavulanic acid component carries a well-documented, sometimes delayed-onset risk of cholestatic hepatitis/jaundice — higher than with amoxicillin alone; report jaundice or persistent nausea promptly.",
             "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed."
-          },
-          {
-            "n": "Amoxicillin + Clavulanic acid",
-            "k": "amoxicillin + clavulanic acid",
-            "d": "Co-amoxiclav",
-            "b": [
-              "Augmentin",
-              "Amoclan",
-              "Curam",
-              "Amoclav",
-              "Clavamox"
-            ],
-            "y": 1981,
-            "st": "Tab 500/125, 875/125 mg · Susp 125/31.25, 250/62.5 mg/5 mL · Inj 1.2 g",
-            "combo": true,
-            "dose": "Tab 500/125, 875/125 mg · Susp 125/31.25, 250/62.5 mg/5 mL · Inj 1.2 g",
-            "ind": [
-              "Acute bacterial rhinosinusitis, animal/human bite wounds, acute exacerbation of COPD, complicated otitis media, and diabetic foot infections."
-            ],
-            "doc": "Mammalian bite wounds (Pasteurella/Eikenella); Amoxicillin-resistant Acute Bacterial Sinusitis",
-            "ci": "History of co-amoxiclav-associated cholestatic jaundice/hepatic impairment, severe penicillin allergy",
-            "sci": "Clavulanate-induced cholestatic jaundice",
-            "ae": [
-              "Diarrhea (clavulanate-induced hypermotility), cholestatic jaundice, nausea, candidiasis"
-            ],
-            "sae": "Cholestatic hepatitis (clavulanate-mediated) / Diarrhea",
-            "info": "Clavulanic acid is a suicide inhibitor of beta-lactamases (Classes A); clavulanate stimulates GI motility causing secretory diarrhea.",
-            "s": "~",
-            "caution": "Take at the start of a meal to reduce GI upset and improve absorption of the clavulanate component. Shake the oral suspension well; different strength ratios (e.g., 500/125 vs 875/125) are not interchangeable on a per-tablet basis.",
-            "sb": [],
-            "preg": "Considered compatible with pregnancy and generally with breastfeeding, but the clavulanic acid component carries a well-documented, sometimes delayed-onset risk of cholestatic hepatitis/jaundice — higher than with amoxicillin alone; report jaundice or persistent nausea promptly.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed."
-          },
-          {
-            "n": "Amoxicillin + Clavulanic acid",
-            "k": "amoxicillin + clavulanic acid",
-            "d": "Co-amoxiclav",
-            "b": [
-              "Augmentin",
-              "Amoclan",
-              "Curam",
-              "Amoclav",
-              "Clavamox"
-            ],
-            "y": 1981,
-            "st": "Tab 500/125, 875/125 mg · Susp 125/31.25, 250/62.5 mg/5 mL · Inj 1.2 g",
-            "combo": true,
-            "dose": "Tab 500/125, 875/125 mg · Susp 125/31.25, 250/62.5 mg/5 mL · Inj 1.2 g",
-            "ind": [
-              "Acute bacterial rhinosinusitis, animal/human bite wounds, acute exacerbation of COPD, complicated otitis media, and diabetic foot infections."
-            ],
-            "doc": "Mammalian bite wounds (Pasteurella/Eikenella); Amoxicillin-resistant Acute Bacterial Sinusitis",
-            "ci": "History of co-amoxiclav-associated cholestatic jaundice/hepatic impairment, severe penicillin allergy",
-            "sci": "Clavulanate-induced cholestatic jaundice",
-            "ae": [
-              "Diarrhea (clavulanate-induced hypermotility), cholestatic jaundice, nausea, candidiasis"
-            ],
-            "sae": "Cholestatic hepatitis (clavulanate-mediated) / Diarrhea",
-            "info": "Clavulanic acid is a suicide inhibitor of beta-lactamases (Classes A); clavulanate stimulates GI motility causing secretory diarrhea.",
-            "s": "~",
-            "caution": "Take at the start of a meal to reduce GI upset and improve absorption of the clavulanate component. Shake the oral suspension well; different strength ratios (e.g., 500/125 vs 875/125) are not interchangeable on a per-tablet basis.",
-            "sb": [],
-            "preg": "Considered compatible with pregnancy and generally with breastfeeding, but the clavulanic acid component carries a well-documented, sometimes delayed-onset risk of cholestatic hepatitis/jaundice — higher than with amoxicillin alone; report jaundice or persistent nausea promptly.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed."
-          },
-          {
-            "n": "Ticarcillin + Clavulanic acid",
-            "k": "ticarcillin + clavulanic acid",
-            "b": [
-              "Timentin"
-            ],
-            "y": 1985,
-            "combo": true,
-            "dose": "Inj 3.1 g (3 g / 0.1 g)",
-            "ind": [
-              "Stenotrophomonas maltophilia infections, nosocomial pneumonia, and complicated intra-abdominal infections."
-            ],
-            "doc": "Stenotrophomonas maltophilia infections (historical first-line)",
-            "ci": "Penicillin hypersensitivity, bleeding diathesis",
-            "sci": "Beta-lactam allergy / Severe coagulopathy",
-            "ae": [
-              "Hypokalemia, fluid overload/hypernatremia, bleeding tendency from antiplatelet effect, diarrhea"
-            ],
-            "sae": "Platelet aggregation inhibition / Hypokalemia",
-            "info": "High in vitro activity against Stenotrophomonas maltophilia; withdrawn in several countries in favor of piperacillin/tazobactam.",
-            "s": "+",
-            "caution": "Reconstitute and infuse IV per label; monitor sodium load and platelet function with prolonged use.",
-            "sb": [],
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Renally eliminated, and high IV doses can impair platelet aggregation — reduce the dose in renal impairment and monitor for bleeding, especially in patients with pre-existing renal disease; no routine hepatic adjustment needed.",
-            "st": "Inj 3.1 g (3 g / 0.1 g)"
-          },
-          {
-            "n": "Ticarcillin + Clavulanic acid",
-            "k": "ticarcillin + clavulanic acid",
-            "b": [
-              "Timentin"
-            ],
-            "y": 1985,
-            "combo": true,
-            "dose": "Inj 3.1 g (3 g / 0.1 g)",
-            "ind": [
-              "Stenotrophomonas maltophilia infections, nosocomial pneumonia, and complicated intra-abdominal infections."
-            ],
-            "doc": "Stenotrophomonas maltophilia infections (historical first-line)",
-            "ci": "Penicillin hypersensitivity, bleeding diathesis",
-            "sci": "Beta-lactam allergy / Severe coagulopathy",
-            "ae": [
-              "Hypokalemia, fluid overload/hypernatremia, bleeding tendency from antiplatelet effect, diarrhea"
-            ],
-            "sae": "Platelet aggregation inhibition / Hypokalemia",
-            "info": "High in vitro activity against Stenotrophomonas maltophilia; withdrawn in several countries in favor of piperacillin/tazobactam.",
-            "s": "+",
-            "caution": "Reconstitute and infuse IV per label; monitor sodium load and platelet function with prolonged use.",
-            "sb": [],
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Renally eliminated, and high IV doses can impair platelet aggregation — reduce the dose in renal impairment and monitor for bleeding, especially in patients with pre-existing renal disease; no routine hepatic adjustment needed.",
-            "st": "Inj 3.1 g (3 g / 0.1 g)"
           },
           {
             "n": "Ticarcillin + Clavulanic acid",
@@ -420,122 +184,6 @@
             "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed."
           },
           {
-            "n": "Cefoperazone + Sulbactam",
-            "k": "cefoperazone + sulbactam",
-            "d": "Sulperazone",
-            "b": [
-              "Sulperazon",
-              "Cefpazone",
-              "Cefoprazone-S"
-            ],
-            "dose": "Inj 1 g (0.5/0.5 g), 2 g (1/1 g), 4 g (2/2 g) IV/IM q12h",
-            "ind": [
-              "Intra-abdominal infections, biliary tract infections, complicated skin/soft tissue infections, and febrile neutropenia (widely used in Asia and the Middle East)."
-            ],
-            "doc": "Empiric therapy for biliary and intra-abdominal sepsis in regions with high ESBL prevalence",
-            "ci": "Penicillin/cephalosporin hypersensitivity",
-            "sci": "Beta-lactam allergy, bleeding disorders (cefoperazone's NMTT side chain impairs vitamin K-dependent clotting)",
-            "ae": [
-              "Diarrhea, disulfiram-like reaction with alcohol, hypoprothrombinemia, injection site pain"
-            ],
-            "sae": "Bleeding due to hypoprothrombinemia (NMTT side chain), C. difficile colitis",
-            "info": "Sulbactam restores cefoperazone's activity against beta-lactamase-producing Enterobacterales; cefoperazone's high biliary excretion and N-methylthiotetrazole (NMTT) side chain account for both its efficacy in biliary infections and its bleeding/disulfiram-like risks.",
-            "s": "+",
-            "caution": "Reconstitute per label; avoid alcohol during and after treatment due to a possible disulfiram-like reaction.",
-            "sb": [],
-            "combo": true,
-            "preg": "Considered compatible with pregnancy at all stages — one of the best-studied and safest antibiotic classes in pregnancy, with no established teratogenic risk. Crosses into breast milk in small amounts; generally compatible with breastfeeding, though may cause loose stools, diaper rash, or oral thrush from altered infant gut flora.",
-            "renal": "Eliminated mainly via biliary excretion (~70%) rather than the kidney — reduce the dose in significant hepatic impairment or biliary obstruction; renal dose adjustment is usually unnecessary unless renal and hepatic impairment coexist.",
-            "st": "Inj 1 g (0.5/0.5 g), 2 g (1/1 g), 4 g (2/2 g)",
-            "y": 1987
-          },
-          {
-            "n": "Ampicillin + Sulbactam",
-            "k": "ampicillin + sulbactam",
-            "b": [
-              "Unasyn",
-              "Sulbacin"
-            ],
-            "y": 1987,
-            "st": "Inj 1.5 g (1/0.5 g), 3 g (2/1 g)",
-            "combo": true,
-            "dose": "Inj 1.5 g (1/0.5 g), 3 g (2/1 g)",
-            "ind": [
-              "Aspiration pneumonia, intra-abdominal infections, gynecologic infections, Acinetobacter baumannii infections, and head/neck deep space infections."
-            ],
-            "doc": "Aspiration pneumonia / Lung Abscess; Acinetobacter baumannii hospital-acquired infections",
-            "ci": "Penicillin hypersensitivity, history of ampicillin/sulbactam-associated hepatic dysfunction",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "Pain at injection site, diarrhea, elevated transaminases, rash"
-            ],
-            "sae": "Injection site phlebitis / C. difficile colitis",
-            "info": "Sulbactam has unique affinity for PBP1 and PBP3 of Acinetobacter baumannii, making this combination clinically active against Acinetobacter.",
-            "s": "+",
-            "caution": "Reconstitute per the vial label; infuse IV over 15–30 minutes. Confirm the labeled ampicillin:sulbactam ratio when converting a dose to volume.",
-            "sb": [],
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed."
-          },
-          {
-            "n": "Cefoperazone + Sulbactam",
-            "k": "cefoperazone + sulbactam",
-            "d": "Sulperazone",
-            "b": [
-              "Sulperazon",
-              "Cefpazone",
-              "Cefoprazone-S"
-            ],
-            "dose": "Inj 1 g (0.5/0.5 g), 2 g (1/1 g), 4 g (2/2 g) IV/IM q12h",
-            "ind": [
-              "Intra-abdominal infections, biliary tract infections, complicated skin/soft tissue infections, and febrile neutropenia (widely used in Asia and the Middle East)."
-            ],
-            "doc": "Empiric therapy for biliary and intra-abdominal sepsis in regions with high ESBL prevalence",
-            "ci": "Penicillin/cephalosporin hypersensitivity",
-            "sci": "Beta-lactam allergy, bleeding disorders (cefoperazone's NMTT side chain impairs vitamin K-dependent clotting)",
-            "ae": [
-              "Diarrhea, disulfiram-like reaction with alcohol, hypoprothrombinemia, injection site pain"
-            ],
-            "sae": "Bleeding due to hypoprothrombinemia (NMTT side chain), C. difficile colitis",
-            "info": "Sulbactam restores cefoperazone's activity against beta-lactamase-producing Enterobacterales; cefoperazone's high biliary excretion and N-methylthiotetrazole (NMTT) side chain account for both its efficacy in biliary infections and its bleeding/disulfiram-like risks.",
-            "s": "+",
-            "caution": "Reconstitute per label; avoid alcohol during and after treatment due to a possible disulfiram-like reaction.",
-            "sb": [],
-            "combo": true,
-            "preg": "Considered compatible with pregnancy at all stages — one of the best-studied and safest antibiotic classes in pregnancy, with no established teratogenic risk. Crosses into breast milk in small amounts; generally compatible with breastfeeding, though may cause loose stools, diaper rash, or oral thrush from altered infant gut flora.",
-            "renal": "Eliminated mainly via biliary excretion (~70%) rather than the kidney — reduce the dose in significant hepatic impairment or biliary obstruction; renal dose adjustment is usually unnecessary unless renal and hepatic impairment coexist.",
-            "st": "Inj 1 g (0.5/0.5 g), 2 g (1/1 g), 4 g (2/2 g)",
-            "y": 1987
-          },
-          {
-            "n": "Ampicillin + Sulbactam",
-            "k": "ampicillin + sulbactam",
-            "b": [
-              "Unasyn",
-              "Sulbacin"
-            ],
-            "y": 1987,
-            "st": "Inj 1.5 g (1/0.5 g), 3 g (2/1 g)",
-            "combo": true,
-            "dose": "Inj 1.5 g (1/0.5 g), 3 g (2/1 g)",
-            "ind": [
-              "Aspiration pneumonia, intra-abdominal infections, gynecologic infections, Acinetobacter baumannii infections, and head/neck deep space infections."
-            ],
-            "doc": "Aspiration pneumonia / Lung Abscess; Acinetobacter baumannii hospital-acquired infections",
-            "ci": "Penicillin hypersensitivity, history of ampicillin/sulbactam-associated hepatic dysfunction",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "Pain at injection site, diarrhea, elevated transaminases, rash"
-            ],
-            "sae": "Injection site phlebitis / C. difficile colitis",
-            "info": "Sulbactam has unique affinity for PBP1 and PBP3 of Acinetobacter baumannii, making this combination clinically active against Acinetobacter.",
-            "s": "+",
-            "caution": "Reconstitute per the vial label; infuse IV over 15–30 minutes. Confirm the labeled ampicillin:sulbactam ratio when converting a dose to volume.",
-            "sb": [],
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed."
-          },
-          {
             "n": "Amoxicillin + Sulbactam",
             "k": "amoxicillin + sulbactam",
             "y": 1990,
@@ -558,114 +206,6 @@
             "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
             "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed.",
             "st": "Tab 500/500 mg · Inj 1.5 g"
-          },
-          {
-            "n": "Amoxicillin + Sulbactam",
-            "k": "amoxicillin + sulbactam",
-            "y": 1990,
-            "combo": true,
-            "dose": "Tab 500/500 mg · Inj 1.5 g",
-            "ind": [
-              "Respiratory tract infections, gynecological infections, and intra-abdominal sepsis."
-            ],
-            "doc": "Empiric community-acquired polymicrobial infections",
-            "ci": "Penicillin allergy, history of sulbactam jaundice",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "Diarrhea, nausea, injection site pain, transaminitis"
-            ],
-            "sae": "Hypersensitivity / Transaminitis",
-            "info": "Sulbactam inhibits Class A beta-lactamases and possesses intrinsic bactericidal activity against Acinetobacter baumannii.",
-            "caution": "Take with food to reduce GI upset; confirm the correct amoxicillin:sulbactam ratio on the product label before dosing.",
-            "b": [],
-            "sb": [],
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed.",
-            "st": "Tab 500/500 mg · Inj 1.5 g"
-          },
-          {
-            "n": "Amoxicillin + Sulbactam",
-            "k": "amoxicillin + sulbactam",
-            "y": 1990,
-            "combo": true,
-            "dose": "Tab 500/500 mg · Inj 1.5 g",
-            "ind": [
-              "Respiratory tract infections, gynecological infections, and intra-abdominal sepsis."
-            ],
-            "doc": "Empiric community-acquired polymicrobial infections",
-            "ci": "Penicillin allergy, history of sulbactam jaundice",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "Diarrhea, nausea, injection site pain, transaminitis"
-            ],
-            "sae": "Hypersensitivity / Transaminitis",
-            "info": "Sulbactam inhibits Class A beta-lactamases and possesses intrinsic bactericidal activity against Acinetobacter baumannii.",
-            "caution": "Take with food to reduce GI upset; confirm the correct amoxicillin:sulbactam ratio on the product label before dosing.",
-            "b": [],
-            "sb": [],
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed.",
-            "st": "Tab 500/500 mg · Inj 1.5 g"
-          },
-          {
-            "n": "Piperacillin + Tazobactam",
-            "k": "piperacillin + tazobactam",
-            "b": [
-              "Zosyn",
-              "Tazocin",
-              "Tazopip",
-              "Pipra-Taz"
-            ],
-            "y": 1993,
-            "st": "Inj 2.25 g, 3.375 g, 4.5 g",
-            "combo": true,
-            "dose": "Inj 2.25 g, 3.375 g, 4.5 g",
-            "ind": [
-              "Hospital-acquired pneumonia, ventilator-associated pneumonia, febrile neutropenia, complicated intra-abdominal sepsis, and diabetic foot ulcers."
-            ],
-            "doc": "Empiric broad-spectrum therapy for severe Hospital-Acquired / Intra-abdominal Sepsis",
-            "ci": "Penicillin/tazobactam hypersensitivity",
-            "sci": "Beta-lactam allergy / Acute interstitial nephritis when combined with Vancomycin",
-            "ae": [
-              "Diarrhea, acute kidney injury (synergistic nephrotoxicity when combined with Vancomycin), thrombocytopenia, C. difficile colitis"
-            ],
-            "sae": "Synergistic nephrotoxicity / AKI with Vancomycin",
-            "info": "Tazobactam expands piperacillin spectrum to MSSA, beta-lactamase producing Enterobacterales, and Bacteroides fragilis. Does not cover ESBLs reliably or MRSA.",
-            "s": "+",
-            "caution": "Reconstitute then dilute per label; infuse IV over 30 minutes (or per extended-infusion protocol if locally adopted). Confirm the correct total vial strength (2.25 g/3.375 g/4.5 g) before dosing.",
-            "sb": [],
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Renally eliminated, and high IV doses can impair platelet aggregation — reduce the dose in renal impairment and monitor for bleeding, especially in patients with pre-existing renal disease; no routine hepatic adjustment needed."
-          },
-          {
-            "n": "Piperacillin + Tazobactam",
-            "k": "piperacillin + tazobactam",
-            "b": [
-              "Zosyn",
-              "Tazocin",
-              "Tazopip",
-              "Pipra-Taz"
-            ],
-            "y": 1993,
-            "st": "Inj 2.25 g, 3.375 g, 4.5 g",
-            "combo": true,
-            "dose": "Inj 2.25 g, 3.375 g, 4.5 g",
-            "ind": [
-              "Hospital-acquired pneumonia, ventilator-associated pneumonia, febrile neutropenia, complicated intra-abdominal sepsis, and diabetic foot ulcers."
-            ],
-            "doc": "Empiric broad-spectrum therapy for severe Hospital-Acquired / Intra-abdominal Sepsis",
-            "ci": "Penicillin/tazobactam hypersensitivity",
-            "sci": "Beta-lactam allergy / Acute interstitial nephritis when combined with Vancomycin",
-            "ae": [
-              "Diarrhea, acute kidney injury (synergistic nephrotoxicity when combined with Vancomycin), thrombocytopenia, C. difficile colitis"
-            ],
-            "sae": "Synergistic nephrotoxicity / AKI with Vancomycin",
-            "info": "Tazobactam expands piperacillin spectrum to MSSA, beta-lactamase producing Enterobacterales, and Bacteroides fragilis. Does not cover ESBLs reliably or MRSA.",
-            "s": "+",
-            "caution": "Reconstitute then dilute per label; infuse IV over 30 minutes (or per extended-infusion protocol if locally adopted). Confirm the correct total vial strength (2.25 g/3.375 g/4.5 g) before dosing.",
-            "sb": [],
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Renally eliminated, and high IV doses can impair platelet aggregation — reduce the dose in renal impairment and monitor for bleeding, especially in patients with pre-existing renal disease; no routine hepatic adjustment needed."
           },
           {
             "n": "Piperacillin + Tazobactam",
@@ -722,118 +262,6 @@
             "caution": "Reconstitute the combined vial, dilute in the stated volume, and infuse IV over 1 hour. Reduce dose in renal impairment.",
             "sb": [],
             "combo": true,
-            "preg": "Considered compatible with pregnancy at all stages — one of the best-studied and safest antibiotic classes in pregnancy, with no established teratogenic risk. Crosses into breast milk in small amounts; generally compatible with breastfeeding, though may cause loose stools, diaper rash, or oral thrush from altered infant gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the dosing interval according to creatinine clearance; no routine dose adjustment is needed for hepatic impairment."
-          },
-          {
-            "n": "Ceftolozane",
-            "k": "ceftolozane",
-            "d": "with tazobactam",
-            "b": [
-              "Zerbaxa"
-            ],
-            "y": 2014,
-            "st": "Inj 1.5 g (ceftolozane 1 g + tazobactam 0.5 g)",
-            "dose": "Inj 1.5 g (ceftolozane 1 g + tazobactam 0.5 g)",
-            "ind": [
-              "Complicated intra-abdominal infections (+ Metronidazole), complicated UTIs/pyelonephritis, and ventilator-associated pneumonia."
-            ],
-            "doc": "Multidrug-Resistant (MDR) and Extensively Drug-Resistant (XDR) Pseudomonas aeruginosa",
-            "ci": "Severe hypersensitivity to ceftolozane, tazobactam, or beta-lactams",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "Nausea, diarrhea, headache, fever, transaminitis"
-            ],
-            "sae": "C. difficile colitis",
-            "info": "Engineered to overcome P. aeruginosa resistance mechanisms including AmpC overexpression, efflux pumps, and OprD porin loss.",
-            "s": "+",
-            "caution": "Reconstitute the combined vial, dilute in the stated volume, and infuse IV over 1 hour. Reduce dose in renal impairment.",
-            "sb": [],
-            "combo": true,
-            "preg": "Considered compatible with pregnancy at all stages — one of the best-studied and safest antibiotic classes in pregnancy, with no established teratogenic risk. Crosses into breast milk in small amounts; generally compatible with breastfeeding, though may cause loose stools, diaper rash, or oral thrush from altered infant gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the dosing interval according to creatinine clearance; no routine dose adjustment is needed for hepatic impairment."
-          },
-          {
-            "n": "Ceftolozane",
-            "k": "ceftolozane",
-            "d": "with tazobactam",
-            "b": [
-              "Zerbaxa"
-            ],
-            "y": 2014,
-            "st": "Inj 1.5 g (ceftolozane 1 g + tazobactam 0.5 g)",
-            "dose": "Inj 1.5 g (ceftolozane 1 g + tazobactam 0.5 g)",
-            "ind": [
-              "Complicated intra-abdominal infections (+ Metronidazole), complicated UTIs/pyelonephritis, and ventilator-associated pneumonia."
-            ],
-            "doc": "Multidrug-Resistant (MDR) and Extensively Drug-Resistant (XDR) Pseudomonas aeruginosa",
-            "ci": "Severe hypersensitivity to ceftolozane, tazobactam, or beta-lactams",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "Nausea, diarrhea, headache, fever, transaminitis"
-            ],
-            "sae": "C. difficile colitis",
-            "info": "Engineered to overcome P. aeruginosa resistance mechanisms including AmpC overexpression, efflux pumps, and OprD porin loss.",
-            "s": "+",
-            "caution": "Reconstitute the combined vial, dilute in the stated volume, and infuse IV over 1 hour. Reduce dose in renal impairment.",
-            "sb": [],
-            "combo": true,
-            "preg": "Considered compatible with pregnancy at all stages — one of the best-studied and safest antibiotic classes in pregnancy, with no established teratogenic risk. Crosses into breast milk in small amounts; generally compatible with breastfeeding, though may cause loose stools, diaper rash, or oral thrush from altered infant gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the dosing interval according to creatinine clearance; no routine dose adjustment is needed for hepatic impairment."
-          },
-          {
-            "n": "Ceftazidime-avibactam",
-            "k": "ceftazidime-avibactam",
-            "b": [
-              "Avycaz",
-              "Zavicefta"
-            ],
-            "y": 2015,
-            "st": "Inj 2.5 g (2 g + 0.5 g)",
-            "combo": true,
-            "dose": "Inj 2.5 g (2 g + 0.5 g)",
-            "ind": [
-              "Complicated UTIs, complicated intra-abdominal infections, hospital-acquired/ventilator pneumonia caused by carbapenem-resistant Enterobacterales (CRE)."
-            ],
-            "doc": "Carbapenem-Resistant Enterobacterales (KPC-producing CRE)",
-            "ci": "Severe beta-lactam hypersensitivity",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "Diarrhea, nausea, vomiting, dizziness, neurotoxicity in renal impairment"
-            ],
-            "sae": "Neurotoxicity / C. difficile colitis",
-            "info": "Avibactam is a non-beta-lactam diazabicyclooctane inhibitor that reversibly inhibits Class A (KPC), Class C (AmpC), and some Class D (OXA-48) carbapenemases.",
-            "s": "+",
-            "caution": "Reconstitute and dilute per label; infuse IV over 2 hours. Adjust dose for renal function.",
-            "sb": [],
-            "preg": "Considered compatible with pregnancy at all stages — one of the best-studied and safest antibiotic classes in pregnancy, with no established teratogenic risk. Crosses into breast milk in small amounts; generally compatible with breastfeeding, though may cause loose stools, diaper rash, or oral thrush from altered infant gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the dosing interval according to creatinine clearance; no routine dose adjustment is needed for hepatic impairment."
-          },
-          {
-            "n": "Ceftazidime-avibactam",
-            "k": "ceftazidime-avibactam",
-            "b": [
-              "Avycaz",
-              "Zavicefta"
-            ],
-            "y": 2015,
-            "st": "Inj 2.5 g (2 g + 0.5 g)",
-            "combo": true,
-            "dose": "Inj 2.5 g (2 g + 0.5 g)",
-            "ind": [
-              "Complicated UTIs, complicated intra-abdominal infections, hospital-acquired/ventilator pneumonia caused by carbapenem-resistant Enterobacterales (CRE)."
-            ],
-            "doc": "Carbapenem-Resistant Enterobacterales (KPC-producing CRE)",
-            "ci": "Severe beta-lactam hypersensitivity",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "Diarrhea, nausea, vomiting, dizziness, neurotoxicity in renal impairment"
-            ],
-            "sae": "Neurotoxicity / C. difficile colitis",
-            "info": "Avibactam is a non-beta-lactam diazabicyclooctane inhibitor that reversibly inhibits Class A (KPC), Class C (AmpC), and some Class D (OXA-48) carbapenemases.",
-            "s": "+",
-            "caution": "Reconstitute and dilute per label; infuse IV over 2 hours. Adjust dose for renal function.",
-            "sb": [],
             "preg": "Considered compatible with pregnancy at all stages — one of the best-studied and safest antibiotic classes in pregnancy, with no established teratogenic risk. Crosses into breast milk in small amounts; generally compatible with breastfeeding, though may cause loose stools, diaper rash, or oral thrush from altered infant gut flora.",
             "renal": "Predominantly renally eliminated — reduce the dose or extend the dosing interval according to creatinine clearance; no routine dose adjustment is needed for hepatic impairment."
           },
@@ -893,33 +321,6 @@
             "sb": []
           },
           {
-            "n": "Meropenem-vaborbactam",
-            "k": "meropenem-vaborbactam",
-            "b": [
-              "Vabomere",
-              "Vaborem"
-            ],
-            "y": 2017,
-            "combo": true,
-            "st": "Inj 2 g vial (meropenem 1 g + vaborbactam 1 g)",
-            "dose": "Usual adult 4 g (meropenem 2 g + vaborbactam 2 g) IV q8h, infused over 3 hours",
-            "ind": [
-              "Complicated UTI including pyelonephritis (US label); in the EU also complicated intra-abdominal infections, hospital-acquired/ventilator-associated pneumonia and bacteremia linked to these."
-            ],
-            "doc": "KPC-producing Carbapenem-Resistant Enterobacterales (CRE)",
-            "ci": "Hypersensitivity to meropenem, vaborbactam or other beta-lactams",
-            "sci": "Valproate co-therapy; seizure history; renal impairment",
-            "ae": [
-              "Headache, phlebitis/infusion-site reactions, diarrhea, nausea, hypersensitivity"
-            ],
-            "sae": "Seizures / C. difficile colitis / Loss of valproate seizure control",
-            "info": "Vaborbactam is a cyclic boronic acid beta-lactamase inhibitor with potent activity against Class A carbapenemases (KPC) and Class C (AmpC) enzymes. It does not inhibit Class B metallo-beta-lactamases (NDM, VIM, IMP) or OXA-48-type (Class D) enzymes, so those producers remain resistant.",
-            "caution": "Reconstitute and dilute per the label; infuse IV over 3 hours. Adjust the dose when eGFR is below 50 mL/min. Avoid with valproate.",
-            "preg": "Human data are limited but reassuring, and animal studies have not shown teratogenicity; reserve for serious infections where safer beta-lactams are unsuitable. Small amounts reach breast milk with poor infant oral absorption — generally acceptable, but watch the infant for diarrhea or thrush.",
-            "renal": "Cleared by the kidney — reduce the dose when eGFR falls below 50 mL/min.",
-            "sb": []
-          },
-          {
             "n": "Imipenem-cilastatin-relebactam",
             "k": "imipenem-cilastatin-relebactam",
             "b": [
@@ -943,82 +344,6 @@
             "caution": "Reconstitute and dilute per the label; infuse IV over 30 minutes. Reduce the dose when CrCl is below 90 mL/min. Avoid with valproate and ganciclovir.",
             "preg": "Human data are limited but reassuring, and animal studies have not shown teratogenicity; reserve for serious infections where safer beta-lactams are unsuitable. Small amounts reach breast milk with poor infant oral absorption — generally acceptable, but watch the infant for diarrhea or thrush.",
             "renal": "Cleared by the kidney — stepwise dose reductions apply when creatinine clearance is below 90 mL/min.",
-            "sb": []
-          },
-          {
-            "n": "Imipenem-cilastatin-relebactam",
-            "k": "imipenem-cilastatin-relebactam",
-            "b": [
-              "Recarbrio"
-            ],
-            "y": 2019,
-            "combo": true,
-            "st": "Inj 1.25 g vial (imipenem 500 mg + cilastatin 500 mg + relebactam 250 mg)",
-            "dose": "Usual adult 1.25 g IV q6h, infused over 30 minutes",
-            "ind": [
-              "Complicated UTI including pyelonephritis and complicated intra-abdominal infections in patients with limited or no alternative options, and hospital-acquired/ventilator-associated bacterial pneumonia."
-            ],
-            "doc": "KPC-producing CRE and multidrug-resistant Pseudomonas aeruginosa (AmpC overproduction, OprD loss)",
-            "ci": "Hypersensitivity to imipenem, cilastatin, relebactam or other beta-lactams",
-            "sci": "Valproate co-therapy; CNS disorders or seizure history; renal impairment; ganciclovir co-therapy",
-            "ae": [
-              "Nausea, diarrhea, headache, vomiting, infusion-site reactions, raised transaminases; seizures"
-            ],
-            "sae": "Seizures / C. difficile colitis / Hypersensitivity",
-            "info": "Relebactam is a diazabicyclooctane beta-lactamase inhibitor active against Class A (including KPC) and Class C (AmpC) enzymes but not Class B or most OXA-48-type carbapenemases. It restores imipenem activity in many imipenem-nonsusceptible P. aeruginosa. Cilastatin blocks renal DHP-I as in plain imipenem.",
-            "caution": "Reconstitute and dilute per the label; infuse IV over 30 minutes. Reduce the dose when CrCl is below 90 mL/min. Avoid with valproate and ganciclovir.",
-            "preg": "Human data are limited but reassuring, and animal studies have not shown teratogenicity; reserve for serious infections where safer beta-lactams are unsuitable. Small amounts reach breast milk with poor infant oral absorption — generally acceptable, but watch the infant for diarrhea or thrush.",
-            "renal": "Cleared by the kidney — stepwise dose reductions apply when creatinine clearance is below 90 mL/min.",
-            "sb": []
-          },
-          {
-            "n": "Sulopenem + Probenecid",
-            "k": "sulopenem + probenecid",
-            "d": "Orlynvah",
-            "b": [
-              "Orlynvah"
-            ],
-            "y": 2024,
-            "combo": true,
-            "st": "Tab 500 mg sulopenem etzadroxil + 500 mg probenecid",
-            "dose": "One tablet orally twice daily with food for 5 days (uncomplicated UTI)",
-            "ind": [
-              "Uncomplicated urinary tract infection in adult women who have limited or no alternative oral antibacterial options."
-            ],
-            "doc": "Uncomplicated UTI from ESBL-producing or multidrug-resistant E. coli, Klebsiella or Proteus when few oral options remain",
-            "ci": "Known serious hypersensitivity to sulopenem, probenecid or other beta-lactams",
-            "sci": "Probenecid component: uric acid kidney stones, blood dyscrasias, and interactions with drugs cleared by renal tubular secretion (for example methotrexate, penicillins)",
-            "ae": [
-              "Diarrhea, nausea, headache, vomiting, vulvovaginal candidiasis"
-            ],
-            "sae": "C. difficile colitis / Hypersensitivity",
-            "info": "Oral penem prodrug (the etzadroxil ester is hydrolyzed to sulopenem). Probenecid blocks renal tubular secretion of sulopenem to prolong exposure. Indicated only for uncomplicated UTI in adult women with few oral options — not for complicated UTI or infections at other sites.",
-            "caution": "Take with food. Reserve for uncomplicated UTI in adult women with limited oral options; it is not an alternative to first-line agents.",
-            "preg": "Human data are lacking — use in pregnancy only if clearly needed and no better-studied option exists. Breastfeeding data are limited; watch the infant for diarrhea or thrush if used.",
-            "renal": "Not well studied in severe renal impairment — check current labeling before use; probenecid is less effective when GFR is low.",
-            "sb": []
-          },
-          {
-            "n": "Aztreonam-avibactam",
-            "k": "aztreonam-avibactam",
-            "b": [
-              "Emblaveo"
-            ],
-            "y": 2024,
-            "st": "Inj 1.5 g aztreonam + 0.5 g avibactam",
-            "dose": "Inj 1.5 g aztreonam + 0.5 g avibactam",
-            "combo": true,
-            "ind": [
-              "Complicated intra-abdominal infections (with metronidazole), hospital-acquired/ventilator-associated pneumonia and complicated UTI in adults with limited options."
-            ],
-            "doc": "Metallo-beta-lactamase (NDM) producing Enterobacterales",
-            "ci": "Beta-lactam hypersensitivity",
-            "sci": "Renal impairment; seizure history",
-            "ae": [
-              "Diarrhea, nausea, headache, infusion-site reactions, raised transaminases"
-            ],
-            "sae": "C. difficile colitis / Hypersensitivity",
-            "info": "Avibactam protects aztreonam from serine beta-lactamases (ESBL, AmpC, KPC), while aztreonam is naturally stable to metallo-enzymes — together they cover NDM producers that beat other agents.",
             "sb": []
           },
           {
@@ -1156,175 +481,32 @@
             "st": "Susp 200 mg erythromycin + 600 mg sulfisoxazole/5 mL"
           },
           {
-            "n": "Amoxicillin + Cloxacillin",
-            "k": "amoxicillin + cloxacillin",
-            "d": "Amoxiclox",
+            "fdc": true,
+            "n": "Arinac",
+            "k": "arinac",
             "b": [
-              "Amoxiclox",
-              "Novaclox"
+              "Arinac"
             ],
-            "dose": "Cap 250/250 mg, 500/500 mg BID-TID",
-            "ind": [
-              "Mixed staphylococcal and streptococcal skin/soft tissue infections, respiratory tract infections."
+            "sb": [
+              "Arinac"
             ],
-            "doc": "Alternative to Ampicillin + Cloxacillin with improved oral bioavailability (amoxicillin absorbed better than ampicillin)",
-            "ci": "Penicillin hypersensitivity",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "GI upset, diarrhea, rash"
+            "comp": [
+              {
+                "key": "ibuprofen",
+                "name": "Ibuprofen",
+                "strength": "200mg"
+              },
+              {
+                "key": null,
+                "name": "Pseudoephedrine",
+                "strength": "30mg"
+              }
             ],
-            "sae": "Hypersensitivity reaction, C. difficile colitis",
-            "info": "Same rationale as ampicillin/cloxacillin, but amoxicillin's superior oral absorption (~80% vs ~50% for ampicillin) gives more reliable serum levels.",
-            "s": "+",
-            "caution": "Fixed-ratio combination — confirm the labeled amoxicillin:cloxacillin ratio before dosing; may be taken with or without food.",
-            "sb": [],
-            "combo": true,
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed.",
-            "st": "Cap 250/250 mg, 500/500 mg"
-          },
-          {
-            "n": "Ampicillin + Cloxacillin",
-            "k": "ampicillin + cloxacillin",
-            "d": "Ampiclox",
-            "b": [
-              "Ampiclox",
-              "Ampicox"
-            ],
-            "dose": "Cap 250/250 mg, 500/500 mg QID; Susp 125/125 mg/5 mL; Inj 500/500 mg",
-            "ind": [
-              "Mixed infections where both penicillinase-producing Staphylococcus aureus and ampicillin-susceptible gram-negative/gram-positive organisms are suspected (e.g., skin/soft tissue infections, neonatal sepsis, respiratory infections)."
-            ],
-            "doc": "Empiric therapy for mixed staphylococcal/streptococcal skin and soft tissue infections, widely used in South Asia/Africa",
-            "ci": "Penicillin hypersensitivity",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "GI upset, diarrhea, rash"
-            ],
-            "sae": "Hypersensitivity reaction, C. difficile colitis",
-            "info": "Combines cloxacillin (beta-lactamase-stable, covers penicillinase-producing S. aureus) with ampicillin (broader gram-negative/enterococcal coverage but beta-lactamase-labile), giving complementary rather than truly enzyme-inhibited synergy.",
-            "s": "+",
-            "caution": "Fixed-ratio combination — confirm the labeled ampicillin:cloxacillin ratio before converting to a dose volume; give oral doses on an empty stomach.",
-            "sb": [],
-            "combo": true,
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed.",
-            "st": "Cap 250/250 mg, 500/500 mg · Susp 125/125 mg/5 mL · Inj 500/500 mg"
-          },
-          {
-            "n": "Erythromycin + Sulfisoxazole",
-            "k": "erythromycin + sulfisoxazole",
-            "d": "Erythromycin ethylsuccinate + Sulfisoxazole acetyl",
-            "b": [
-              "Pediazole",
-              "Eryzole"
-            ],
-            "dose": "Oral suspension dosed by erythromycin component 50 mg/kg/day divided QID",
-            "ind": [
-              "Acute otitis media in children, particularly when Haemophilus influenzae is suspected or in penicillin-allergic patients."
-            ],
-            "doc": "Historical first-line for pediatric acute otitis media in penicillin-allergic children (largely replaced by amoxicillin-clavulanate/cephalosporins)",
-            "ci": "Macrolide or sulfonamide hypersensitivity, infants under 2 months, severe hepatic impairment",
-            "sci": "G6PD deficiency, concurrent QT-prolonging drugs",
-            "ae": [
-              "GI upset, diarrhea, rash"
-            ],
-            "sae": "QT prolongation, Stevens-Johnson syndrome, hemolytic anemia (G6PD deficiency), cholestatic hepatitis",
-            "info": "Erythromycin provides activity against Streptococcus pneumoniae and atypical organisms while sulfisoxazole extends coverage to beta-lactamase-producing Haemophilus influenzae, which erythromycin alone does not reliably cover.",
-            "s": "~",
-            "caution": "Confirm the labeled erythromycin:sulfisoxazole ratio before dosing; give with food if GI upset occurs, and shake the suspension well.",
-            "sb": [],
-            "combo": true,
-            "preg": "Avoid near term (last few weeks of pregnancy) — sulfonamides displace bilirubin from albumin, risking kernicterus in the neonate; also generally avoided in the first trimester given a possible small increase in birth-defect risk with folate-antagonist exposure. Avoid during breastfeeding of newborns, premature infants, or G6PD-deficient infants (kernicterus/hemolysis risk); can be used with more caution in older, healthy infants.",
-            "renal": "Renally eliminated with a risk of crystalluria — ensure adequate hydration and reduce the dose in renal impairment; use with caution in hepatic impairment (rare hepatotoxicity).",
-            "st": "Susp 200 mg erythromycin + 600 mg sulfisoxazole/5 mL"
-          },
-          {
-            "n": "Amoxicillin + Cloxacillin",
-            "k": "amoxicillin + cloxacillin",
-            "d": "Amoxiclox",
-            "b": [
-              "Amoxiclox",
-              "Novaclox"
-            ],
-            "dose": "Cap 250/250 mg, 500/500 mg BID-TID",
-            "ind": [
-              "Mixed staphylococcal and streptococcal skin/soft tissue infections, respiratory tract infections."
-            ],
-            "doc": "Alternative to Ampicillin + Cloxacillin with improved oral bioavailability (amoxicillin absorbed better than ampicillin)",
-            "ci": "Penicillin hypersensitivity",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "GI upset, diarrhea, rash"
-            ],
-            "sae": "Hypersensitivity reaction, C. difficile colitis",
-            "info": "Same rationale as ampicillin/cloxacillin, but amoxicillin's superior oral absorption (~80% vs ~50% for ampicillin) gives more reliable serum levels.",
-            "s": "+",
-            "caution": "Fixed-ratio combination — confirm the labeled amoxicillin:cloxacillin ratio before dosing; may be taken with or without food.",
-            "sb": [],
-            "combo": true,
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed.",
-            "st": "Cap 250/250 mg, 500/500 mg"
-          },
-          {
-            "n": "Ampicillin + Cloxacillin",
-            "k": "ampicillin + cloxacillin",
-            "d": "Ampiclox",
-            "b": [
-              "Ampiclox",
-              "Ampicox"
-            ],
-            "dose": "Cap 250/250 mg, 500/500 mg QID; Susp 125/125 mg/5 mL; Inj 500/500 mg",
-            "ind": [
-              "Mixed infections where both penicillinase-producing Staphylococcus aureus and ampicillin-susceptible gram-negative/gram-positive organisms are suspected (e.g., skin/soft tissue infections, neonatal sepsis, respiratory infections)."
-            ],
-            "doc": "Empiric therapy for mixed staphylococcal/streptococcal skin and soft tissue infections, widely used in South Asia/Africa",
-            "ci": "Penicillin hypersensitivity",
-            "sci": "Beta-lactam allergy",
-            "ae": [
-              "GI upset, diarrhea, rash"
-            ],
-            "sae": "Hypersensitivity reaction, C. difficile colitis",
-            "info": "Combines cloxacillin (beta-lactamase-stable, covers penicillinase-producing S. aureus) with ampicillin (broader gram-negative/enterococcal coverage but beta-lactamase-labile), giving complementary rather than truly enzyme-inhibited synergy.",
-            "s": "+",
-            "caution": "Fixed-ratio combination — confirm the labeled ampicillin:cloxacillin ratio before converting to a dose volume; give oral doses on an empty stomach.",
-            "sb": [],
-            "combo": true,
-            "preg": "Considered one of the safest antibiotic classes in pregnancy, used at all stages when clinically indicated. Crosses into breast milk in small amounts; compatible with breastfeeding, though watch for infant diarrhea, rash, or oral/diaper thrush from altered gut flora.",
-            "renal": "Predominantly renally eliminated — reduce the dose or extend the interval in renal impairment; no routine hepatic dose adjustment is needed.",
-            "st": "Cap 250/250 mg, 500/500 mg · Susp 125/125 mg/5 mL · Inj 500/500 mg"
-          },
-          {
-            "n": "Erythromycin + Sulfisoxazole",
-            "k": "erythromycin + sulfisoxazole",
-            "d": "Erythromycin ethylsuccinate + Sulfisoxazole acetyl",
-            "b": [
-              "Pediazole",
-              "Eryzole"
-            ],
-            "dose": "Oral suspension dosed by erythromycin component 50 mg/kg/day divided QID",
-            "ind": [
-              "Acute otitis media in children, particularly when Haemophilus influenzae is suspected or in penicillin-allergic patients."
-            ],
-            "doc": "Historical first-line for pediatric acute otitis media in penicillin-allergic children (largely replaced by amoxicillin-clavulanate/cephalosporins)",
-            "ci": "Macrolide or sulfonamide hypersensitivity, infants under 2 months, severe hepatic impairment",
-            "sci": "G6PD deficiency, concurrent QT-prolonging drugs",
-            "ae": [
-              "GI upset, diarrhea, rash"
-            ],
-            "sae": "QT prolongation, Stevens-Johnson syndrome, hemolytic anemia (G6PD deficiency), cholestatic hepatitis",
-            "info": "Erythromycin provides activity against Streptococcus pneumoniae and atypical organisms while sulfisoxazole extends coverage to beta-lactamase-producing Haemophilus influenzae, which erythromycin alone does not reliably cover.",
-            "s": "~",
-            "caution": "Confirm the labeled erythromycin:sulfisoxazole ratio before dosing; give with food if GI upset occurs, and shake the suspension well.",
-            "sb": [],
-            "combo": true,
-            "preg": "Avoid near term (last few weeks of pregnancy) — sulfonamides displace bilirubin from albumin, risking kernicterus in the neonate; also generally avoided in the first trimester given a possible small increase in birth-defect risk with folate-antagonist exposure. Avoid during breastfeeding of newborns, premature infants, or G6PD-deficient infants (kernicterus/hemolysis risk); can be used with more caution in older, healthy infants.",
-            "renal": "Renally eliminated with a risk of crystalluria — ensure adequate hydration and reduce the dose in renal impairment; use with caution in hepatic impairment (rare hepatotoxicity).",
-            "st": "Susp 200 mg erythromycin + 600 mg sulfisoxazole/5 mL"
+            "ind": [],
+            "ae": []
           }
         ],
-        "count": 47,
+        "count": 18,
         "groups": 0
       },
       {
@@ -12462,7 +11644,9 @@
                     ],
                     "y": 1963,
                     "st": "Cap 250, 500 mg",
-                    "sb": [],
+                    "sb": [
+                      "Ponstan"
+                    ],
                     "ind": [],
                     "ae": []
                   },
@@ -20770,6 +19954,40 @@
             "mrp": 540,
             "buy": 475,
             "sale": 600
+          }
+        ]
+      }
+    ],
+    "mefenamic acid": [
+      {
+        "id": "bmumpw9mo7nbbn",
+        "name": "Ponstan",
+        "variants": [
+          {
+            "id": "vmumpw9mozekb4",
+            "strength": "250",
+            "form": "Tab",
+            "pack": "600",
+            "mrp": 2339,
+            "buy": null,
+            "sale": 3600
+          }
+        ]
+      }
+    ],
+    "arinac": [
+      {
+        "id": "bmumu6bjj6k1cm",
+        "name": "Arinac",
+        "variants": [
+          {
+            "id": "vmumu6bjj3cpm7",
+            "strength": "",
+            "form": "Tab",
+            "pack": "10×10",
+            "mrp": 800,
+            "buy": null,
+            "sale": 1000
           }
         ]
       }
